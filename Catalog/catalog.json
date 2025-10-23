@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-04-29T22:03:23.857648Z",
+  "last_updated": "2025-10-23T16:30:35.453234Z",
   "themes": {
+    "Bliss.theme": {
+      "preview_path": "Catalog/.metadata/previews/Bliss.theme.png",
+      "manifest_path": "Catalog/.metadata/manifests/Bliss.theme.json",
+      "author": "Syphist",
+      "description": "Bliss.theme",
+      "URL": "https://github.com/Leviathanium/NextUI-Themes/raw/main/Packages/themes/Bliss.theme.zip",
+      "last_updated": "2025-10-23T16:30:35.453224Z"
+    },
     "Artbook-NextUI.theme": {
       "preview_path": "Catalog/.metadata/previews/ArtBookNextUI.theme.png",
       "manifest_path": "Catalog/.metadata/manifests/ArtBookNextUI.theme.json",

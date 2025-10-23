@@ -1,0 +1,853 @@
+{
+  "theme_info": {
+    "name": "Bliss.theme",
+    "version": "0.1",
+    "author": "Syphist",
+    "creation_date": "2025-07-17T15:11:25.718297781-05:00",
+    "exported_by": "Theme Manager v1.0.0"
+  },
+  "content": {
+    "wallpapers": {
+      "present": true,
+      "count": 1
+    },
+    "icons": {
+      "present": true,
+      "system_count": 135,
+      "tool_count": 0,
+      "collection_count": 0
+    },
+    "overlays": {
+      "present": false,
+      "systems": []
+    },
+    "fonts": {
+      "present": true,
+      "og_replaced": true,
+      "next_replaced": true
+    },
+    "settings": {
+      "accents_included": true,
+      "leds_included": true
+    }
+  },
+  "path_mappings": {
+    "wallpapers": [
+      {
+        "theme_path": "Wallpapers/SystemWallpapers/Root.png",
+        "system_path": "/mnt/SDCARD/bg.png",
+        "metadata": {
+          "SystemName": "Root",
+          "WallpaperType": "Main"
+        }
+      }
+    ],
+    "icons": [
+      {
+        "theme_path": "Icons/SystemIcons/(AMIGA).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(AMIGA).png",
+        "metadata": {
+          "ExactSystemName": "(AMIGA)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(AMIGA)",
+          "SystemTag": "AMIGA"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(ARDUBOY).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(ARDUBOY).png",
+        "metadata": {
+          "ExactSystemName": "(ARDUBOY)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(ARDUBOY)",
+          "SystemTag": "ARDUBOY"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(ATARI).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(ATARI).png",
+        "metadata": {
+          "ExactSystemName": "(ATARI)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(ATARI)",
+          "SystemTag": "ATARI"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(BITPAL).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(BITPAL).png",
+        "metadata": {
+          "ExactSystemName": "(BITPAL)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(BITPAL)",
+          "SystemTag": "BITPAL"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(COLECO).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(COLECO).png",
+        "metadata": {
+          "ExactSystemName": "(COLECO)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(COLECO)",
+          "SystemTag": "COLECO"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(COMMODORE).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(COMMODORE).png",
+        "metadata": {
+          "ExactSystemName": "(COMMODORE)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(COMMODORE)",
+          "SystemTag": "COMMODORE"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(CPC).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(CPC).png",
+        "metadata": {
+          "ExactSystemName": "Amstrad CPC (CPC)",
+          "IconType": "System",
+          "MatchFound": "true",
+          "SystemName": "(CPC)",
+          "SystemTag": "CPC"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(CUSTOM).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(CUSTOM).png",
+        "metadata": {
+          "ExactSystemName": "(CUSTOM)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(CUSTOM)",
+          "SystemTag": "CUSTOM"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(DC).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(DC).png",
+        "metadata": {
+          "ExactSystemName": "(DC)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(DC)",
+          "SystemTag": "DC"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(DOOM).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(DOOM).png",
+        "metadata": {
+          "ExactSystemName": "(DOOM)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(DOOM)",
+          "SystemTag": "DOOM"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(DOS).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(DOS).png",
+        "metadata": {
+          "ExactSystemName": "(DOS)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(DOS)",
+          "SystemTag": "DOS"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(EASYRPG).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(EASYRPG).png",
+        "metadata": {
+          "ExactSystemName": "(EASYRPG)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(EASYRPG)",
+          "SystemTag": "EASYRPG"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(EIGHTHUNDRED).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(EIGHTHUNDRED).png",
+        "metadata": {
+          "ExactSystemName": "(EIGHTHUNDRED)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(EIGHTHUNDRED)",
+          "SystemTag": "EIGHTHUNDRED"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(FAIRCHILD).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(FAIRCHILD).png",
+        "metadata": {
+          "ExactSystemName": "(FAIRCHILD)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(FAIRCHILD)",
+          "SystemTag": "FAIRCHILD"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(FBN).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(FBN).png",
+        "metadata": {
+          "ExactSystemName": "10) Arcade (FBN)",
+          "IconType": "System",
+          "MatchFound": "true",
+          "SystemName": "(FBN)",
+          "SystemTag": "FBN"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(FC).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(FC).png",
+        "metadata": {
+          "ExactSystemName": "00) NES (FC)",
+          "IconType": "System",
+          "MatchFound": "true",
+          "SystemName": "(FC)",
+          "SystemTag": "FC"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(FDS).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(FDS).png",
+        "metadata": {
+          "ExactSystemName": "(FDS)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(FDS)",
+          "SystemTag": "FDS"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(FIFTYTWOHUNDRED).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(FIFTYTWOHUNDRED).png",
+        "metadata": {
+          "ExactSystemName": "(FIFTYTWOHUNDRED)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(FIFTYTWOHUNDRED)",
+          "SystemTag": "FIFTYTWOHUNDRED"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(GB).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(GB).png",
+        "metadata": {
+          "ExactSystemName": "(GB)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(GB)",
+          "SystemTag": "GB"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(GBA).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(GBA).png",
+        "metadata": {
+          "ExactSystemName": "08) Game Boy Advance (GBA)",
+          "IconType": "System",
+          "MatchFound": "true",
+          "SystemName": "(GBA)",
+          "SystemTag": "GBA"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(GBC).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(GBC).png",
+        "metadata": {
+          "ExactSystemName": "07) Game Boy Color (GBC)",
+          "IconType": "System",
+          "MatchFound": "true",
+          "SystemName": "(GBC)",
+          "SystemTag": "GBC"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(GG).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(GG).png",
+        "metadata": {
+          "ExactSystemName": "05) Sega Game Gear (GG)",
+          "IconType": "System",
+          "MatchFound": "true",
+          "SystemName": "(GG)",
+          "SystemTag": "GG"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(GS).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(GS).png",
+        "metadata": {
+          "ExactSystemName": "(GS)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(GS)",
+          "SystemTag": "GS"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(GW).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(GW).png",
+        "metadata": {
+          "ExactSystemName": "(GW)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(GW)",
+          "SystemTag": "GW"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(INTELLIVISION).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(INTELLIVISION).png",
+        "metadata": {
+          "ExactSystemName": "(INTELLIVISION)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(INTELLIVISION)",
+          "SystemTag": "INTELLIVISION"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(LYNX).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(LYNX).png",
+        "metadata": {
+          "ExactSystemName": "Atari Lynx (LYNX)",
+          "IconType": "System",
+          "MatchFound": "true",
+          "SystemName": "(LYNX)",
+          "SystemTag": "LYNX"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(MD).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(MD).png",
+        "metadata": {
+          "ExactSystemName": "03) Sega Genesis (MD)",
+          "IconType": "System",
+          "MatchFound": "true",
+          "SystemName": "(MD)",
+          "SystemTag": "MD"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(MEGADUCK).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(MEGADUCK).png",
+        "metadata": {
+          "ExactSystemName": "(MEGADUCK)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(MEGADUCK)",
+          "SystemTag": "MEGADUCK"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(MGBA).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(MGBA).png",
+        "metadata": {
+          "ExactSystemName": "(MGBA)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(MGBA)",
+          "SystemTag": "MGBA"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(MPV).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(MPV).png",
+        "metadata": {
+          "ExactSystemName": "(MPV)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(MPV)",
+          "SystemTag": "MPV"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(MSX).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(MSX).png",
+        "metadata": {
+          "ExactSystemName": "(MSX)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(MSX)",
+          "SystemTag": "MSX"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(N64).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(N64).png",
+        "metadata": {
+          "ExactSystemName": "(N64)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(N64)",
+          "SystemTag": "N64"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(NDS).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(NDS).png",
+        "metadata": {
+          "ExactSystemName": "(NDS)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(NDS)",
+          "SystemTag": "NDS"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(NEOCD).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(NEOCD).png",
+        "metadata": {
+          "ExactSystemName": "(NEOCD)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(NEOCD)",
+          "SystemTag": "NEOCD"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(NEOGEO).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(NEOGEO).png",
+        "metadata": {
+          "ExactSystemName": "(NEOGEO)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(NEOGEO)",
+          "SystemTag": "NEOGEO"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(NGPC).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(NGPC).png",
+        "metadata": {
+          "ExactSystemName": "Neo Geo Pocket Color (NGPC)",
+          "IconType": "System",
+          "MatchFound": "true",
+          "SystemName": "(NGPC)",
+          "SystemTag": "NGPC"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(ODYSSEY).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(ODYSSEY).png",
+        "metadata": {
+          "ExactSystemName": "(ODYSSEY)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(ODYSSEY)",
+          "SystemTag": "ODYSSEY"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(OPENBOR).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(OPENBOR).png",
+        "metadata": {
+          "ExactSystemName": "(OPENBOR)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(OPENBOR)",
+          "SystemTag": "OPENBOR"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(PCE).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(PCE).png",
+        "metadata": {
+          "ExactSystemName": "TurboGrafx-16 (PCE)",
+          "IconType": "System",
+          "MatchFound": "true",
+          "SystemName": "(PCE)",
+          "SystemTag": "PCE"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(PICO-8).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(PICO-8).png",
+        "metadata": {
+          "ExactSystemName": "(PICO-8)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(PICO-8)",
+          "SystemTag": "PICO-8"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(PKM).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(PKM).png",
+        "metadata": {
+          "ExactSystemName": "Pokémon mini (PKM)",
+          "IconType": "System",
+          "MatchFound": "true",
+          "SystemName": "(PKM)",
+          "SystemTag": "PKM"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(PS).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(PS).png",
+        "metadata": {
+          "ExactSystemName": "09) Sony PSX (PS)",
+          "IconType": "System",
+          "MatchFound": "true",
+          "SystemName": "(PS)",
+          "SystemTag": "PS"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(PSP).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(PSP).png",
+        "metadata": {
+          "ExactSystemName": "(PSP)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(PSP)",
+          "SystemTag": "PSP"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(QUAKE).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(QUAKE).png",
+        "metadata": {
+          "ExactSystemName": "(QUAKE)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(QUAKE)",
+          "SystemTag": "QUAKE"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(SATURN).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(SATURN).png",
+        "metadata": {
+          "ExactSystemName": "(SATURN)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(SATURN)",
+          "SystemTag": "SATURN"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(SCUMMVM).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(SCUMMVM).png",
+        "metadata": {
+          "ExactSystemName": "(SCUMMVM)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(SCUMMVM)",
+          "SystemTag": "SCUMMVM"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(SEGASGONE).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(SEGASGONE).png",
+        "metadata": {
+          "ExactSystemName": "(SEGASGONE)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(SEGASGONE)",
+          "SystemTag": "SEGASGONE"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(SFC).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(SFC).png",
+        "metadata": {
+          "ExactSystemName": "01) SNES (SFC)",
+          "IconType": "System",
+          "MatchFound": "true",
+          "SystemName": "(SFC)",
+          "SystemTag": "SFC"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(SGB).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(SGB).png",
+        "metadata": {
+          "ExactSystemName": "06) Super Game Boy (SGB)",
+          "IconType": "System",
+          "MatchFound": "true",
+          "SystemName": "(SGB)",
+          "SystemTag": "SGB"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(SGFX).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(SGFX).png",
+        "metadata": {
+          "ExactSystemName": "(SGFX)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(SGFX)",
+          "SystemTag": "SGFX"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(SMS).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(SMS).png",
+        "metadata": {
+          "ExactSystemName": "02) Sega Master System (SMS)",
+          "IconType": "System",
+          "MatchFound": "true",
+          "SystemName": "(SMS)",
+          "SystemTag": "SMS"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(SUPA).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(SUPA).png",
+        "metadata": {
+          "ExactSystemName": "(SUPA)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(SUPA)",
+          "SystemTag": "SUPA"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(SUPERVISION).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(SUPERVISION).png",
+        "metadata": {
+          "ExactSystemName": "(SUPERVISION)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(SUPERVISION)",
+          "SystemTag": "SUPERVISION"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(THIRTYTWOX).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(THIRTYTWOX).png",
+        "metadata": {
+          "ExactSystemName": "04) Sega 32X (THIRTYTWOX)",
+          "IconType": "System",
+          "MatchFound": "true",
+          "SystemName": "(THIRTYTWOX)",
+          "SystemTag": "THIRTYTWOX"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(TIC).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(TIC).png",
+        "metadata": {
+          "ExactSystemName": "(TIC)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(TIC)",
+          "SystemTag": "TIC"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(VB).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(VB).png",
+        "metadata": {
+          "ExactSystemName": "Virtual Boy (VB)",
+          "IconType": "System",
+          "MatchFound": "true",
+          "SystemName": "(VB)",
+          "SystemTag": "VB"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(VECTREX).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(VECTREX).png",
+        "metadata": {
+          "ExactSystemName": "(VECTREX)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(VECTREX)",
+          "SystemTag": "VECTREX"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(VIC20).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(VIC20).png",
+        "metadata": {
+          "ExactSystemName": "(VIC20)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(VIC20)",
+          "SystemTag": "VIC20"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(VIDEOPAC).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(VIDEOPAC).png",
+        "metadata": {
+          "ExactSystemName": "(VIDEOPAC)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(VIDEOPAC)",
+          "SystemTag": "VIDEOPAC"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(WOLF).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(WOLF).png",
+        "metadata": {
+          "ExactSystemName": "(WOLF)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(WOLF)",
+          "SystemTag": "WOLF"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(WSC).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(WSC).png",
+        "metadata": {
+          "ExactSystemName": "(WSC)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(WSC)",
+          "SystemTag": "WSC"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(X68000).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(X68000).png",
+        "metadata": {
+          "ExactSystemName": "(X68000)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(X68000)",
+          "SystemTag": "X68000"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(ZXS).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(ZXS).png",
+        "metadata": {
+          "ExactSystemName": "(ZXS)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(ZXS)",
+          "SystemTag": "ZXS"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/Collections.png",
+        "system_path": "/mnt/SDCARD/.media/Collections.png",
+        "metadata": {
+          "IconType": "System",
+          "SystemName": "Collections"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/Recently Played.png",
+        "system_path": "/mnt/SDCARD/.media/Recently Played.png",
+        "metadata": {
+          "IconType": "System",
+          "SystemName": "Recently Played"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/Tools.png",
+        "system_path": "/mnt/SDCARD/Tools/.media/tg5040.png",
+        "metadata": {
+          "IconType": "System",
+          "SystemName": "Tools"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(P8).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(P8).png",
+        "metadata": {
+          "ExactSystemName": "(P8)",
+          "IconType": "System",
+          "MatchFound": "false",
+          "SystemName": "(P8)",
+          "SystemTag": "P8"
+        }
+      },
+      {
+        "theme_path": "Icons/SystemIcons/(PICO).png",
+        "system_path": "/mnt/SDCARD/Roms/.media/(PICO).png",
+        "metadata": {
+          "ExactSystemName": "11) Pico-8 (PICO)",
+          "IconType": "System",
+          "MatchFound": "true",
+          "SystemName": "(PICO)",
+          "SystemTag": "PICO"
+        }
+      }
+    ],
+    "overlays": null,
+    "fonts": {
+      "Next": {
+        "theme_path": "Fonts/Next.ttf",
+        "system_path": "/mnt/SDCARD/.system/res/font1.ttf"
+      },
+      "Next.backup": {
+        "theme_path": "Fonts/Next.backup.ttf",
+        "system_path": "/mnt/SDCARD/.system/res/font1.backup.ttf"
+      },
+      "OG": {
+        "theme_path": "Fonts/OG.ttf",
+        "system_path": "/mnt/SDCARD/.system/res/font2.ttf"
+      },
+      "OG.backup": {
+        "theme_path": "Fonts/OG.backup.ttf",
+        "system_path": "/mnt/SDCARD/.system/res/font2.backup.ttf"
+      }
+    },
+    "settings": null
+  },
+  "accent_colors": {
+    "color1": "0xD8DCF5",
+    "color2": "0x1F5EDD",
+    "color3": "0x00309C",
+    "color4": "0xFFFFFF",
+    "color5": "0x000000",
+    "color6": "0xFFFFFF"
+  },
+  "led_settings": {
+    "f1_key": {
+      "effect": 4,
+      "color1": "0x0000BB",
+      "color2": "0xD8DCF5",
+      "speed": 1000,
+      "brightness": 15,
+      "trigger": 0,
+      "in_brightness": 15
+    },
+    "f2_key": {
+      "effect": 4,
+      "color1": "0x0000CC",
+      "color2": "0xD8DCF5",
+      "speed": 1000,
+      "brightness": 15,
+      "trigger": 0,
+      "in_brightness": 15
+    },
+    "top_bar": {
+      "effect": 2,
+      "color1": "0x0000CC",
+      "color2": "0x1F5EDD",
+      "speed": 1000,
+      "brightness": 10,
+      "trigger": 0,
+      "in_brightness": 10
+    },
+    "lr_triggers": {
+      "effect": 1,
+      "color1": "0x0000CC",
+      "color2": "0xD8DCF5",
+      "speed": 1000,
+      "brightness": 15,
+      "trigger": 0,
+      "in_brightness": 15
+    }
+  }
+}
